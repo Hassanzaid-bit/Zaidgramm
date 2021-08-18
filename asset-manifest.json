@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Zaidgramm/static/css/main.d34a1b1b.chunk.css",
+    "main.js": "/Zaidgramm/static/js/main.d7656358.chunk.js",
+    "main.js.map": "/Zaidgramm/static/js/main.d7656358.chunk.js.map",
+    "runtime-main.js": "/Zaidgramm/static/js/runtime-main.e8986566.js",
+    "runtime-main.js.map": "/Zaidgramm/static/js/runtime-main.e8986566.js.map",
+    "static/js/2.c7a39cde.chunk.js": "/Zaidgramm/static/js/2.c7a39cde.chunk.js",
+    "static/js/2.c7a39cde.chunk.js.map": "/Zaidgramm/static/js/2.c7a39cde.chunk.js.map",
+    "index.html": "/Zaidgramm/index.html",
+    "precache-manifest.ee67d01c49edb28adcf84276ef4949bc.js": "/Zaidgramm/precache-manifest.ee67d01c49edb28adcf84276ef4949bc.js",
+    "service-worker.js": "/Zaidgramm/service-worker.js",
+    "static/css/main.d34a1b1b.chunk.css.map": "/Zaidgramm/static/css/main.d34a1b1b.chunk.css.map",
+    "static/js/2.c7a39cde.chunk.js.LICENSE.txt": "/Zaidgramm/static/js/2.c7a39cde.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8986566.js",
+    "static/js/2.c7a39cde.chunk.js",
+    "static/css/main.d34a1b1b.chunk.css",
+    "static/js/main.d7656358.chunk.js"
+  ]
+}
